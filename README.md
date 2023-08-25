@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hey! 👋 I'm Prason, I'm a DevOps engineering enthusiast exploring DevSecOps that Scale.</p>
+<p align="left">Hallo! 👋 Ich bin Prason, I'm a DevOps engineering enthusiast exploring DevSecOps that Scale.</p>
 
 ###
 
@@ -16,9 +16,7 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">✨ Part-time Ethical Hacker.<br>☁️ Learning Google Cloud Platform.</p>
+<p align="left">✨ Part-time Ethical Hacker.<br>☁️ Learning Google Cloud Platform.<br>🇩🇪 Learning German Language.</p>
 
 ###
 
